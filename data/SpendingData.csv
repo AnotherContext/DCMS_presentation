@@ -1,0 +1,98 @@
+Resource.Type,Expense.Type,Department,Broad.Activity,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16
+DEL,Departmental expenditure,Support for the Museums and Galleries sector ,"Arts, Heritage, Libraries",12619,4230,4170,3831,13336,12664,16267,17478,17367
+DEL,Departmental expenditure,Museums and Galleries sponsored ALBs (net) ,"Arts, Heritage, Libraries",334044,278988,357425,361853,306816,359754,354959,412336,388803
+DEL,Departmental expenditure,Libraries sponsored ALBs (net) ,"Arts, Heritage, Libraries",99452,104277,103587,106243,113172,110753,101374,112196,109378
+DEL,Departmental expenditure,"Museums, libraries and archives council (net) ","Arts, Heritage, Libraries",NA,59804,61838,58376,64474,43741,8632,NA,NA
+DEL,Departmental expenditure,Support for the Arts sector ,"Arts, Heritage, Libraries",3088,-1273,-3821,-1737,2373,-53218,-67219,-61175,421
+DEL,Departmental expenditure,Arts and culture ALBs (net) ,"Arts, Heritage, Libraries",402293,413791,420612,420204,380835,446545,442838,434221,358336
+DEL,Departmental expenditure,Support for the Sports sector ,"Leisure, Tourism, Sport & Olympic Games",8525,2203,8801,1098,5394,6847,21147,16874,14374
+DEL,Departmental expenditure,Sport sponsored ALBs (net) ,"Leisure, Tourism, Sport & Olympic Games",141744,161154,151945,148362,136077,144942,114967,120269,108121
+DEL,Departmental expenditure,Ceremonial and support for the Heritage sector ,"Arts, Heritage, Libraries",19064,20633,18555,22200,13946,22161,16690,30607,29281
+DEL,Departmental expenditure,Heritage sponsored ALBs (net) ,"Arts, Heritage, Libraries",141608,151149,151825,144270,130737,97567,92975,97311,84024
+DEL,Departmental expenditure,The Royal Parks ,"Leisure, Tourism, Sport & Olympic Games",18999,20092,18487,15759,17162,16955,13637,14767,13730
+DEL,Departmental expenditure,Support for the Tourism sector ,"Leisure, Tourism, Sport & Olympic Games",1985,2230,127,2362,16,70,10,NA,NA
+DEL,Departmental expenditure,Tourism sponsored ALBs (net) ,"Leisure, Tourism, Sport & Olympic Games",53848,52985,50450,39479,45494,47824,48200,27591,28006
+DEL,Departmental expenditure,Support for the Broadcasting and Media sector ,"Media, Broadband, Telecommunication",4417,2722,2624,1561,3218,15161,12063,10190,13946
+DEL,Departmental expenditure,Broadcasting and Media sponsored ALBs (net) ,"Media, Broadband, Telecommunication",118109,129542,136260,138139,170893,183597,93543,91042,95979
+DEL,Departmental expenditure,Administration and Research ,Administration & staff expenditure ,53309,56476,56448,53406,58429,51679,34863,37630,39949
+DEL,Departmental expenditure,Support for Horseracing and the Gambling sector ,"National Lottery, Gambling, E_Licensing",-11518,-5121,-3732,-4020,2700,-1560,-1603,-2817,NA
+DEL,Departmental expenditure,Gambling Commission(net) ,"National Lottery, Gambling, E_Licensing",16610,7927,5801,4107,4722,1959,3097,3765,1234
+DEL,Departmental expenditure,Olympics - legacy programmes ,"Leisure, Tourism, Sport & Olympic Games",459,-67,524,13022,65868,501628,-18083,178,NA
+DEL,Departmental expenditure,London 2012(net) ,"Leisure, Tourism, Sport & Olympic Games",24130,-2703,-35363,-18700,45399,1575240,-29477,100,NA
+DEL,Departmental expenditure,Government Equalities Office ,"Human Rights, Equality",5969,10333,13998,11611,7080,15283,7298,18900,11000
+DEL,Departmental expenditure,Equalitiy and Human Rights Commission (net) ,"Human Rights, Equality",74129,59395,55700,52800,42982,26683,19230,24785,23317
+DEL,Departmental expenditure,Spectrum Management Receipts ,Administration & staff expenditure ,NA,NA,NA,NA,NA,-60142,-54535,-62600,-61800
+DEL,Consumption of resources,Staff costs ,Administration & staff expenditure ,632674,585335,604087,606177,648611,593804,560591,213687,219842
+DEL,Consumption of resources,Purchase of goods and services ,Goods and services,817214,852475,795638,745002,931655,849574,979159,571777,479095
+DEL,Consumption of resources,Income from sales of goods and services ,Goods and services,-400225,-435149,-371751,-364397,-402992,-273532,-474637,-23000,NA
+DEL,Consumption of resources,Current grants to local government (net) ,"Grants & Subsidies, Capital support and net lending",48672,91378,38415,57507,-26931,10603,-7008,NA,NA
+DEL,Consumption of resources,Current grants to persons and non-profit bodies (net) ,"Grants & Subsidies, Capital support and net lending",575071,580437,649477,606302,585540,786028,502356,508414,427911
+DEL,Consumption of resources,Current grants abroad (net) ,"Grants & Subsidies, Capital support and net lending",-12410,906,493,823,136,NA,-1528,NA,NA
+DEL,Consumption of resources,Subsidies to private sector companies ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,NA,NA,NA,157,NA,NA
+DEL,Consumption of resources,Subsidies to public corporations ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,82590,74880,522976,10026,2689,-10
+DEL,Consumption of resources,Rentals ,Administration & staff expenditure ,NA,NA,NA,800,6346,3545,33199,NA,NA
+DEL,Consumption of resources,Depreciation *,Goods and services,107081,28571,115617,109300,114120,1443884,133696,176200,179328
+DEL,Consumption of resources,Change in pension scheme liabilities **,Administration & staff expenditure ,NA,NA,NA,100,471,12,-44,NA,NA
+DEL,Consumption of resources,Other resource ,Administration & staff expenditure ,-185390,-173152,-259177,-263880,-321446,-405870,-513726,-106119,-30700
+Capital DEL,Departmental expenditure,Support for the Museums and Galleries sector ,"Arts, Heritage, Libraries",2734,-1490,3904,4390,6050,2100,100,2000,1934
+Capital DEL,Departmental expenditure,Museums and Galleries sponsored ALBs (net) ,"Arts, Heritage, Libraries",56096,112562,60564,52228,154781,76284,15987,53819,22467
+Capital DEL,Departmental expenditure,Libraries sponsored ALBs (net) ,"Arts, Heritage, Libraries",29217,26982,30634,26543,13603,17167,7173,4742,3221
+Capital DEL,Departmental expenditure,"Museums, libraries and archives council (net) ","Arts, Heritage, Libraries",NA,65,424,120,NA,NA,NA,NA,NA
+Capital DEL,Departmental expenditure,Support for the Arts sector ,"Arts, Heritage, Libraries",323,403,314,256,100,NA,117,119,115
+Capital DEL,Departmental expenditure,Arts and culture ALBs (net) ,"Arts, Heritage, Libraries",27191,27663,32051,35931,12778,18222,18679,13066,12634
+Capital DEL,Departmental expenditure,Support for the Sports sector ,"Leisure, Tourism, Sport & Olympic Games",3521,10015,NA,NA,3000,NA,250,NA,NA
+Capital DEL,Departmental expenditure,Sport sponsored ALBs (net) ,"Leisure, Tourism, Sport & Olympic Games",41997,53578,55306,42532,32965,31698,27920,26129,25265
+Capital DEL,Departmental expenditure,Ceremonial and support for the Heritage sector ,"Arts, Heritage, Libraries",600,1284,550,2400,3797,7581,6882,1400,1600
+Capital DEL,Departmental expenditure,Heritage sponsored ALBs (net) ,"Arts, Heritage, Libraries",41096,39015,28172,31379,22066,29079,16805,16816,12669
+Capital DEL,Departmental expenditure,The Royal Parks ,"Leisure, Tourism, Sport & Olympic Games",536,1384,2076,2785,1574,1583,2620,895,1865
+Capital DEL,Departmental expenditure,Tourism sponsored ALBs (net) ,"Leisure, Tourism, Sport & Olympic Games",395,1176,304,130,191,189,357,192,186
+Capital DEL,Departmental expenditure,Support for the Broadcasting and Media sector ,"Media, Broadband, Telecommunication",323,205,211,157,108,9136,55198,479417,245225
+Capital DEL,Departmental expenditure,Broadcasting and Media sponsored ALBs (net) ,"Media, Broadband, Telecommunication",1571,3898,7265,11420,51097,40667,5896,25373,23307
+Capital DEL,Departmental expenditure,Administration and Research ,Administration & staff expenditure ,5396,2569,2350,1381,897,1830,373,1164,1125
+Capital DEL,Departmental expenditure,Support for Horseracing and the Gambling sector ,"National Lottery, Gambling, E_Licensing",NA,NA,NA,NA,NA,9000,9000,-80,10000
+Capital DEL,Departmental expenditure,Gambling Commission(net) ,"National Lottery, Gambling, E_Licensing",1780,1389,635,262,238,737,302,80,NA
+Capital DEL,Departmental expenditure,Olympics - legacy programmes ,"Leisure, Tourism, Sport & Olympic Games",NA,-432530,-644240,-654845,35143,42053,NA,NA,NA
+Capital DEL,Departmental expenditure,London 2012(net) ,"Leisure, Tourism, Sport & Olympic Games",323978,1009025,938487,1022684,917180,54056,-184059,-87145,NA
+Capital DEL,Departmental expenditure,Equalitiy and Human Rights Commission (net) ,"Human Rights, Equality",7175,904,382,268,1370,495,416,400,387
+Capital DEL,Departmental expenditure,n/a ,"Grants & Subsidies, Capital support and net lending",NA,-34950,NA,NA,NA,NA,NA,NA,NA
+Capital DEL,Consumption of resources,Capital support for local government (net) ,"Grants & Subsidies, Capital support and net lending",-42778,-89646,-86871,-171004,75965,1245270,50452,NA,NA
+Capital DEL,Consumption of resources,Capital grants to persons &  non-profit bodies (net) ,"Grants & Subsidies, Capital support and net lending",106685,76982,77072,126276,121296,49103,-103067,660656,327548
+Capital DEL,Consumption of resources,Capital grants to private sector companies (net) ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,NA,-88,25976,-13457,NA,NA
+Capital DEL,Consumption of resources,Capital grants abroad (net) ,"Grants & Subsidies, Capital support and net lending",-34621,NA,NA,NA,791,-216,-202,NA,NA
+Capital DEL,Consumption of resources,Capital support for public corporations ,"Grants & Subsidies, Capital support and net lending",35,NA,NA,NA,-47088,46818,NA,NA,NA
+Capital DEL,Consumption of resources,Purchase of assets ,Goods and services,581142,1336936,1455522,1593833,1208437,374201,510302,53066,34452
+Capital DEL,Consumption of resources,Income from sales of assets ,Goods and services,-2489,-59878,-822,-73650,-6382,-1242845,-380430,-175255,NA
+Capital DEL,Consumption of resources,Net lending to the private sector and abroad ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,NA,NA,-26761,-11437,NA,NA
+Capital DEL,Consumption of resources,Other capital ,"Grants & Subsidies, Capital support and net lending",-63980,-440888,-925816,-895554,-95993,-129669,-68145,-80,NA
+AME,Departmental expenditure,British Broadcasting Corporation(net) ,"Media, Broadband, Telecommunication",2962800,2868987,3020000,3121360,2608460,3224802,2794569,3471499,3305146
+AME,Departmental expenditure,"Provisions,  Impairments and other AME spend",Administration & staff expenditure ,NA,6786,-276,13027,96255,35957,19449,16854,62071
+AME,Departmental expenditure,Lottery Grants ,"National Lottery, Gambling, E_Licensing",882351,1010728,1000814,994845,1334509,1450239,1399564,1401425,994222
+AME,Departmental expenditure,London 2012(net) ,"Leisure, Tourism, Sport & Olympic Games",-507,13667,26057,156592,-155839,-30996,102138,NA,NA
+AME,Departmental expenditure,Gambling levy bodies ,"National Lottery, Gambling, E_Licensing",NA,NA,NA,NA,-30535,-10268,-2721,NA,NA
+AME,Consumption of resources,Staff costs ,Administration & staff expenditure ,1097800,974130,1248000,1053000,1199758,921649,884993,1323577,1051440
+AME,Consumption of resources,Purchase of goods and services ,Goods and services,2375000,2410870,2279000,2630510,1973067,2812655,2498563,3041000,2780175
+AME,Consumption of resources,Income from sales of goods and services ,Goods and services,NA,NA,NA,NA,NA,-328808,NA,-392474,NA
+AME,Consumption of resources,Current grants to local government (net) ,"Grants & Subsidies, Capital support and net lending",43953,102440,79898,73666,57497,20812,34896,62530,95050
+AME,Consumption of resources,Current grants to persons and non-profit bodies (net) ,"Grants & Subsidies, Capital support and net lending",729672,784288,784245,761179,961726,557133,452521,1338895,899172
+AME,Consumption of resources,Subsidies to public corporations ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,NA,NA,NA,24,NA,NA
+AME,Consumption of resources,Rentals ,Administration & staff expenditure ,NA,NA,NA,NA,NA,80775,104496,NA,NA
+AME,Consumption of resources,Depreciation *,Goods and services,35000,84787,93000,69585,124644,237372,273208,221881,159146
+AME,Consumption of resources,Take up of provisions ,Administration & staff expenditure ,12911,17283,41771,292898,-96968,592197,870437,2850,NA
+AME,Consumption of resources,Release of provisions covering payments of pension benefits,Administration & staff expenditure ,-6632,-3892,-2687,-6041,-16345,-40604,-11576,NA,NA
+AME,Consumption of resources,Change in pension scheme liabilities ** ,Administration & staff expenditure ,NA,NA,NA,NA,NA,162422,178831,NA,NA
+AME,Consumption of resources,Unwinding of the discount rate on pension scheme liabilities**,Administration & staff expenditure ,NA,NA,NA,NA,560222,730035,82412,NA,NA
+AME,Consumption of resources,Release of provisions covering payments of pension benefits,Administration & staff expenditure ,NA,NA,NA,NA,NA,-234,-14336,NA,NA
+AME,Consumption of resources,Other resource ,Administration & staff expenditure ,-436274,-476800,-463329,-505745,-971049,-1092178,-1044065,-663264,-685615
+Capital AME,Departmental expenditure,British Broadcasting Corporation(net) ,"Media, Broadband, Telecommunication",85000,81100,123000,121600,172012,-80380,105619,113079,94850
+Capital AME,Departmental expenditure,"Provisions,  Impairments and other AME spend",Administration & staff expenditure ,10000,NA,NA,NA,NA,NA,NA,NA,NA
+Capital AME,Departmental expenditure,Lottery Grants ,"National Lottery, Gambling, E_Licensing",713455,535632,751532,597410,379916,536954,523705,498575,605778
+Capital AME,Departmental expenditure,London 2012(net) ,"Leisure, Tourism, Sport & Olympic Games",NA,NA,NA,NA,NA,NA,NA,NA,NA
+Capital AME,Departmental expenditure,Gambling levy bodies ,"National Lottery, Gambling, E_Licensing",NA,NA,NA,NA,NA,-8411,-1763,NA,NA
+Capital AME,Departmental expenditure,n/a ,"Grants & Subsidies, Capital support and net lending",NA,-45200,NA,NA,NA,NA,NA,NA,NA
+Capital AME,Consumption of resources,Capital support for local government (net) ,"Grants & Subsidies, Capital support and net lending",293462,277019,231576,149864,137333,99230,132060,130736,258029
+Capital AME,Consumption of resources,Capital grants to persons &  non-profit bodies (net) ,"Grants & Subsidies, Capital support and net lending",352830,257613,277427,208546,242583,355026,311789,367839,347749
+Capital AME,Consumption of resources,Capital support for public corporations ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,NA,NA,NA,18,NA,NA
+Capital AME,Consumption of resources,Purchase of assets ,Goods and services,95000,81100,123000,121600,172012,135451,128399,113079,94850
+Capital AME,Consumption of resources,Income from sales of assets ,Goods and services,NA,-45200,NA,NA,NA,-208487,-14257,NA,NA
+Capital AME,Consumption of resources,Net lending to the private sector and abroad ,"Grants & Subsidies, Capital support and net lending",NA,NA,NA,NA,NA,8455,21360,NA,NA
+Capital AME,Consumption of resources,Other capital ,"Grants & Subsidies, Capital support and net lending",67163,1000,242529,239000,NA,58488,48192,NA,NA
