@@ -3,7 +3,7 @@ title: "Trends Over Time"
 subtitle: Department for Culture Media and Sport
 author: |
   | AnotherContext
-  | e: [anothercontext@hotmail.com](emailto:anothercontext@hotmail.com)
+  | e: anothercontext [at] hotmail [dot] com
   | w: [anothercontext.co.uk](http://anothercontext.co.uk)
   | t: [iAnotherContext](http://twitter.com/ianothercontext)
 output:
@@ -13,11 +13,11 @@ output:
 runtime: shiny
 ---
 
-## Introduction | What is to be analysed?
+## Introduction: What is to be analysed?
 
 I investigate spending, workforce, and  performance trends in the Department for Culture, Media and Sport since 2009-10.
 
-To explore this broad subject in the constrained space of 12 slides, I have grouped activities of the Department into 4 sub-sections:
+To explore this broad subject in a limited space of this document, I have grouped activities of the Department into 4 sub-sections:
 
 - Arts, including Museums and Galleries, Heritage, and Libraries;
 - Leisure: Tourism, Sport, and Olympic Games;
@@ -27,20 +27,6 @@ To explore this broad subject in the constrained space of 12 slides, I have grou
 To help identify possible trends and provide insight into the datasets, I have used descriptive statistics and interactive visual tools that allow to dynamically explore and summarise main characteristics of the dataset, e.g., its tendency and variability.
 
 For more detailed results quoted below, please refer to the Excel companion file available at [OneDrive](http://1drv.ms/1fAsxIY). Alternatively, visit [my website](https://wildsquare.shinyapps.io/DCMS_presentation_ext/) created for the purpose of this presentation.
-
-## Spending and Employment 
-
-Arts: Since 2009/10 between £400-£450m, £130-150m, and £100-£110m was granted annually to Museums and Galleries, Heritage, and Libraries, respectively. 
-
-Sport: High spending driven by the London 2012 and Olympic legacy programmes' funding reduced from nearly £2.4bn in 2012/13 to £100m the following year. Further support to the Sport sector would continue at around £150m per annum. 
-
-Tourism: Support for this sector accounted for about £50m per annum and wass fairly stable.
-
-Media: Funding for the BBC accounted for 94.5% of the total spending budget for Broadcasting sector in 2013/14, and planned to increase from £3bn to £4.2bn in 2014/15.
-
-Internet and Telecomunications: [DCMS' Annual Report](https://www.gov.uk/government/publications/dcms-annual-report-and-accounts-2013-14) did not provide any details for funding of this sector. Although, it is likely that the funding was accounted for in Grants and Subsidies section, I decided not report these results. 
-
-Gambling: Lottery grants generated spending of £1.9bn annually but they were planned to be reduced to £1.6bn by 2015/16.
 
 ## Spending: Visual Analysis
 
@@ -53,15 +39,31 @@ shinyAppDir(
 )
 ```
 
-## Spending | Conclusions
+## Spending: Analysis
 
-A decrease in Broadcasting and Media expenditure in 2013/14 was caused by a reduction in activity following the London Olympics and the BBC’s delivering an efficiency programme.
+Arts: Every year between £400- £450m, £130- 150m, and £100- £110m was granted to Museums and Galleries, Heritage, and Libraries, respectively. Though 2013 saw £158m reduction in funding, the trend is planned to continue in the next years.
+
+Human Rights and Equality sector saw a major reduction in spending from £70m 2009/10 to £27m in 2013/14. However, additional £10m in grants was planned to support the Goverment Equalities Office in 2014/15. 
+
+Sport: High spending driven by the London 2012 and Olympic legacy programmes' funding reduced from nearly £2.4bn in 2012/13 to £100m the following year. Further support to the Sport sector would continue at around £150m per annum. 
+
+Tourism: Support for this sector accounted for about £50m per annum and was fairly stable.
+
+Media: Funding for the BBC accounted for 94.5% of the total spending budget for Broadcasting sector in 2013/14, and was planned to increase from £3bn to £4.2bn in 2014/15.
+
+Internet and Telecomunications: the [DCMS Annual Report](https://www.gov.uk/government/publications/dcms-annual-report-and-accounts-2013-14) did not single out details for spending in this sector. Although, it is likely that the funding was accounted for in Grants and Subsidies section, I decided not report these results. 
+
+## Spending: Conclusions
+
+A decrease in Broadcasting and Media expenditure in 2013/14 was caused by reduction in activity following the London Olympics and the BBC delivering an efficiency programme.
+
+Gambling: Lottery grants generated spending of £1.9bn annually but they were planned to be reduced to £1.6bn by 2015/16.
 
 General spending trend was fairly stable at around £7.1bn per annum with an increase to £9bn in 2012/13- caused by the London Olympics funding, and a decrease to £6.1bn in 2013/14- caused by temporary funding reduction for the BBC and Museums and Galleries.
 
-The spending dataset is skewed right with a few extreme values driving the means outside the interquartile ranges. This is especially true for the planned funding in 2014/15 and 2015/16. 
+The DCMS spending dataset is skewed right with number of extreme values driving the means outside their respective interquartile ranges. This is especially true for the planned funding in 2014/15 and 2015/16. 
 
-The extreme values were generated by the cost of funding of the BBC and Lottery grants that accounted for 78% of the total DCMS' spending budget in 2013/14.
+The extreme values were generated by cost of funding of the BBC and Lottery grants that accounted for 78% of the total DCMS spending budget in 2013/14.
 
 ## Employment: Visual Analysis
 
@@ -74,23 +76,13 @@ shinyAppDir(
 )
 ```
 
-## Employment | Conclusions
+## Employment: Conclusions
 
-Administration and staff expenditure across all sectors generated nearly £1.6bn costs, including £1.5bn staff costs. These expenses were reduced in the following year by £440m in total. According to the DCMS' [Annual Report](https://www.gov.uk/government/publications/dcms-annual-report-and-accounts-2013-14) the administration and expenditure totals were planned to be reduced three times by 2015/16.  
+Administration and staff expenditure across all sectors generated nearly £1.6bn costs in 2012/13, including £1.5bn staff costs. These expenses were reduced in the following year by £440m in total. According to the [DCMS Annual Report](https://www.gov.uk/government/publications/dcms-annual-report-and-accounts-2013-14), the administration and expenditure spending was planned to be reduced three times by 2015/16.  
 
-According to the [Annual Business Survey](http://www.ons.gov.uk/ons/datasets-and-tables/index.html), accounting for approximately two thirds of the UK econony in terms of Gross Value Added, the Arts, Entertainment and Recreation sector generated contribution of over £22bn of GVA in 2013 in over 50 thousand small businesess with 1-9 employees and about 6 thousand enterprises with 10-49 employees, generating £11.8bn employment costs in total.
+According to the [Annual Business Survey](http://www.ons.gov.uk/ons/datasets-and-tables/index.html) (accounting for approximately two thirds of the UK economy in terms of Gross Value Added) in 2013, the Arts, Entertainment and Recreation sector generated contribution of over £22bn of GVA in over 50 thousand small businesess with 1-9 employees and 6 thousand enterprises with 10-49 employees, generating £11.8bn employment costs in total.
 
 Information and communications generated over £97bn of GVA in 2013 and was the fastest growing sector in terms of number of start-ups and small businesses (1-9 employees), accounting for 166 thousand enterprises and generating £5.2bn total employment costs.
-
-## Performance
-
-In 2012/13, Museums and Galleries brought income of £380m and nearly 50m visitors. The figures increased systematically with a difference of 9m visitors in a span of 5 years. The largest contribution to the income was made by fundraising, generating £252m in 2013/14.
-
-The tourism sector played a successful role in promoting growth. 2013 saw £34m overseas visitors, number that increased systematically since 2012.
-
-According to the [SportEngland's](http://www.sportengland.org/research/economic-value-of-sport-local-model/) estimate, the Sports sector economic impact was worth £20.1bn in 2012, including £5.8bn generated by the Sports Services and £5.4bn by the Sports Broadcasting and Gambling. A contribution of £27bn indirect impact on the wider economy accounted for £21bn on Health sector alone.
-
-2013 saw significant raise in percentage of the UK independent movies market share related to the number of tax reliefs supporting animation and high end TV. 
 
 ## Performance: Visual Analysis
 
@@ -103,25 +95,33 @@ shinyAppDir(
 )
 ```
 
-## Performance | Conclusions
+## Performance: Analysis
 
-Percentage of people accessing internet daily increased from 55% in 2009 to nearly 75% in 2014. Access to the internet systematically raised in all age groups.
+In 2012/13, Museums and Galleries brought income of £380m and nearly 50m visitors. The figures increased systematically with a difference of 9m visitors in a span of 5 years. The largest contribution to the income was made by fundraising, generating £252m in 2013/14.
 
-This increase was likely related to the number of programmes bringing broadband and wireless connectivity to the UK, e.g. the £150 million Super-Connected Cities Programme launched to bring fast broadband to businesses across 22 cities. 
+The tourism sector played a successful role in promoting growth. 2013 saw £34m overseas visitors, number that increased systematically since 2012.
 
-While superfast broadband was available to 78% of UK premises in 2013, the Government pledged £780m to ensure it was 95% of UK premises by 2017 and £150 million to improve mobile coverage in the hardest-to-reach areas through the Mobile Infrastructure Project.
+According to the [SportEngland's](http://www.sportengland.org/research/economic-value-of-sport-local-model/) estimate, the Sports sector economic impact was worth £20.1bn in 2012, including £5.8bn generated by the Sports Services and £5.4bn by the Sports Broadcasting and Gambling. A contribution of £27bn indirect impact on the wider economy accounted for £21bn on Health sector alone.
 
-In the same time, all mobile operators committed to covering 98% of the UK population by the end of 2015 as by the end of 2013, 4G was available to little over 60% of the UK population. 
+2013 saw significant raise in percentage of the UK independent movies market share related to the number of tax reliefs supporting animation and high end TV. 
 
-Telecoms industries saw a slow decrease in revenues for Telecoms equal to £38bn in 2013, accounting for 63% of all revenues. In contrast, the TV's revenues increased systematically over the years generating £12.9bn in 2013 which was 21% of all revenues in that year.
+## Performance: Conclusions
+
+A consistent increase of the percentage of people accessing the internet regularly was likely related to the number of programmes bringing broadband and wireless connectivity to the UK, e.g., the £150 million Super-Connected Cities Programme launched to bring fast broadband to businesses across 22 cities. 
+
+While superfast broadband was available to 78% of UK premises in 2013, the Government pledged £780m to ensure it was 95% of UK premises by 2017 and further £150 million to improve mobile coverage in the hardest-to-reach areas through the Mobile Infrastructure Project.
+
+In the same time, all mobile operators committed to covering 98% of the UK population by the end of 2015 as 4G was available to little over 60% of the UK population in 2013.
+
+Telecoms industries saw a slow decrease in revenues  for Telecoms equal to £38bn in 2013, accounting for 63% of all revenues. In contrast, the TV's revenues increased systematically over the years generating £12.9bn in 2013, that is 21% of all revenues in that year.
 
 ## Summary
 
-In 2013, DCMS successfully launched number of the long- term programmes promoting the UK growth. 
-
-Faciliating delivery of the fast broadband, wider mobile coverage, tourism promoting strategies, and campaigning on the number of social issues, e.g., women's equality and safe internet access, the Department achieved number of its quantitive objectives. However, the ongoing public debate has raised questions concerning funding support to the number of institutions and organisations. 
-
 DCMS manages the financial arrangements for a large group of institutions, working under a variety of different accounting frameworks. It also manages a small number of very large programmes, e.g., the 2012 Olympics, Broadband Delivery.
+
+In 2013, the Department successfully launched number of the long- term programmes promoting the UK growth. 
+
+Faciliating delivery of the fast broadband, wider mobile coverage, tourism promoting strategies, and campaigning on the number of social issues, e.g., women's equality and safe internet access, the Department achieved number of its quantitive objectives. However, the ongoing public debate has raised questions concerning funding support for the number of institutions and organisations. 
 
 As highlighted in the [Annual Report](https://www.gov.uk/government/publications/dcms-annual-report-and-accounts-2013-14), the DCMS needs to manage the potential high impact of these programmes and their specific risks, while ensuring more routine funding, exploring potential efficiencies and investigating policies in new and innovative ways.
 
@@ -148,6 +148,6 @@ Acknowledgement:
 
 The work in this document is influenced by many sources, with especial aknowledgment for the learnings from [RStudio](http://www.rstudio.com) and [ONS Data Viz](http://www.ons.gov.uk/ons/interactive/index.html) teams, [Mike Bostock](http://bost.ocks.org/mike/), [Tony Hirst](http://blog.ouseful.info/), and [MiniMaxir](http://minimaxir.com/2015/02/ggplot-tutorial/) for continous inspiration and guidance.
 
-Have a question? Email me at [anothercontext@hotmail.com](emailto:anothercontext@hotmail.com).
+Have a question? Email me at anothercontext [at] hotmail [dot] com.
 
-<sup>[Email](emailto: anothercontext@hotmail.com) - [Twitter](https://twitter.com/ianothercontext) - [Facebook](https://www.facebook.com/anothercontext) - [GitHub](https://github.com/AnotherContext) - [OneDrive](http://1drv.ms/1fAsxIY)</sup>
+<sup>[Twitter](https://twitter.com/ianothercontext) - [Facebook](https://www.facebook.com/anothercontext) - [GitHub](https://github.com/AnotherContext) - [OneDrive](http://1drv.ms/1fAsxIY)</sup>

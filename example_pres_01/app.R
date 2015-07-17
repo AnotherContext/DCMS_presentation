@@ -13,7 +13,7 @@ source("doc/source_files_pres_01.R")
 ############################################################
 
 ui <- shinyUI(
-        navbarPage(title = "Spending", 
+        navbarPage(title = "", 
                    collapsible = TRUE, fluid = TRUE, 
                        tabPanel("Overview",
                              fluidRow(
@@ -35,10 +35,10 @@ ui <- shinyUI(
                             ),
                             fluidRow(
                                   column(6,
-                                    plotOutput("chart1", height = "300px")
+                                    plotOutput("chart1", height = "360px")
                                   ),
                                   column(6,
-                                    plotOutput("chart2", height = "300px")
+                                    plotOutput("chart2", height = "360px")
                                   )
                             )
                        ),
@@ -46,15 +46,15 @@ ui <- shinyUI(
                                 #verbatimTextOutput("summary")
                                 fluidRow(
                                   column(6,
-                                         plotOutput("chart3", height= "200px")),
+                                         plotOutput("chart3", height= "220px")),
                                   column(6,
-                                         plotOutput("chart4", height= "200px")
+                                         plotOutput("chart4", height= "220px")
                                          )),
                                   fluidRow(
                                   column(6,
-                                         plotOutput("chart6", height= "200px")),
+                                         plotOutput("chart6", height= "220px")),
                                   column(6,
-                                         plotOutput("chart5", height= "200px")
+                                         plotOutput("chart5", height= "220px")
                                          )) 
                        ),
                        tabPanel("Data", 

@@ -13,7 +13,7 @@ source("doc/source_files_pres_02.R")
 ############################################################
 
 ui <- shinyUI(
-        navbarPage(title = "Performance", 
+        navbarPage(title = "", 
                    collapsible = TRUE, fluid = TRUE, 
                        tabPanel("Overview",  
                                 fluidRow(
@@ -29,17 +29,17 @@ ui <- shinyUI(
                                     condition = "input.user_type == 'Arts'",
                                         fluidRow(
                                             column(6,
-                                                   plotOutput("chart1", height= "180px")),
+                                                   plotOutput("chart1", height= "200px")),
                                             column(6,
-                                                   plotOutput("chart4", height= "180px"))
+                                                   plotOutput("chart4", height= "200px"))
                                                    #plotOutput("chart5", height= "100px")
                                             
                                         ),
                                         fluidRow(
                                             column(6,
-                                                   plotOutput("chart2", height= "180px")),
+                                                   plotOutput("chart2", height= "200px")),
                                             column(6,
-                                                   plotOutput("chart3", height= "180px"))
+                                                   plotOutput("chart3", height= "200px"))
                                         )
                                  ),
                              
@@ -48,15 +48,15 @@ ui <- shinyUI(
                                     
                                         fluidRow(
                                           column(6,
-                                                 plotOutput("chart6", height= "180px")),
+                                                 plotOutput("chart6", height= "200px")),
                                           column(6
                                                 # plotOutput("chart7", height= "200px")
                                           )),
                                         fluidRow(
                                           column(6,
-                                                 plotOutput("chart8", height= "180px")),
+                                                 plotOutput("chart8", height= "200px")),
                                           column(6,
-                                                 plotOutput("chart9", height= "180px")
+                                                 plotOutput("chart9", height= "200px")
                                           ))
                                 ),
                                 
@@ -65,13 +65,13 @@ ui <- shinyUI(
                                   
                                       fluidRow(
                                           column(6,
-                                                 plotOutput("chart10", height= "180px")),
+                                                 plotOutput("chart10", height= "200px")),
                                           column(6,
-                                                 plotOutput("chart11", height= "180px"))
+                                                 plotOutput("chart11", height= "200px"))
                                       ),
                                       fluidRow(
                                           column(6,
-                                                 plotOutput("chart13", height= "180px")),
+                                                 plotOutput("chart13", height= "200px")),
                                           column(6
                                       ))
                                 ),
@@ -81,9 +81,9 @@ ui <- shinyUI(
                                   
                                       fluidRow(
                                           column(6,
-                                                 plotOutput("chart16", height= "180px")),
+                                                 plotOutput("chart16", height= "200px")),
                                           column(6,
-                                                 plotOutput("chart17", height= "180px"))
+                                                 plotOutput("chart17", height= "200px"))
                                       ),
                                       fluidRow(
                                           column(6
@@ -98,19 +98,19 @@ ui <- shinyUI(
                                  
                                      fluidRow(
                                       column(6,
-                                             plotOutput("chart14", height= "180px")),
+                                             plotOutput("chart14", height= "200px")),
                                       column(6,
-                                             plotOutput("chart15", height= "180px")
+                                             plotOutput("chart15", height= "200px")
                                       )),
                                     fluidRow(
                                       column(6,
-                                             plotOutput("chart12", height= "180px")),
+                                             plotOutput("chart12", height= "200px")),
                                       column(6
                                       ))
                                )
                         ),
                        tabPanel("Annual Business Survey",
-                               plotOutput("chart18")
+                               plotOutput("chart18", height = "420px")
                        )
                    )
   )

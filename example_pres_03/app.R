@@ -14,7 +14,7 @@ source("doc/source_files_pres_03.R")
 ############################################################
 
 ui <- shinyUI(
-  navbarPage(title = "Employment", 
+  navbarPage(title = "", 
              collapsible = TRUE, fluid = TRUE, 
              tabPanel("Sizeband",  
                       fluidRow(
@@ -31,7 +31,7 @@ ui <- shinyUI(
              tabPanel("Costs",
                       fluidRow(
                           column(12,
-                                 plotOutput("chart2"))
+                                 plotOutput("chart2", height = "420px"))
              ))
   )
 )
